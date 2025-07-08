@@ -1,13 +1,13 @@
 
-# 📊 Black Friday Sales Prediction
+#  Black Friday Sales Prediction
 
-## 📝 Project Overview
+##  Project Overview
 
 This project focuses on **predicting customer purchase amounts** during Black Friday sales, using a dataset of **537,577** retail transactions. It is a **regression task** ideal for exploring **consumer behavior**, **feature engineering**, and **predictive modeling** using Python.
 
 ---
 
-## 📂 Dataset Description
+##  Dataset Description
 
 - **Total Records:** 537,577  
 - **Total Features:** 12  
@@ -29,7 +29,7 @@ This project focuses on **predicting customer purchase amounts** during Black Fr
 
 ---
 
-## 🔍 Analysis Summary
+##  Analysis Summary
 
 - **Top-Selling Product:** `P00265242`
 - **Gender Trend:** Most buyers are **male**
@@ -38,7 +38,7 @@ This project focuses on **predicting customer purchase amounts** during Black Fr
 
 ---
 
-## 📈 Technologies Used
+## Technologies Used
 
 - **Python 3**
 - **Pandas, NumPy** – Data manipulation
@@ -47,7 +47,7 @@ This project focuses on **predicting customer purchase amounts** during Black Fr
 
 ---
 
-## 📁 Project Structure
+## Project Structure
 
 ```
 📦 BlackFriday-Sales-Prediction
@@ -60,10 +60,10 @@ This project focuses on **predicting customer purchase amounts** during Black Fr
 
 ---
 
-## 🚀 Getting Started
+##  Getting Started
 
 1. Clone the repository  
-   `git clone https://github.com/your-username/black-friday-sales-prediction.git`
+   `git clone https://github.com/nikitaphartiyal/Black-Friday-Sales-.git`
 
 2. Install dependencies  
    `pip install -r requirements.txt`
@@ -76,4 +76,3 @@ This project focuses on **predicting customer purchase amounts** during Black Fr
 ## 📌 Author
 
 - **Nikita Singh**
-
